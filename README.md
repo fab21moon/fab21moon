@@ -1,6 +1,6 @@
-# Ciao, sono Fabio 👋
+# Ciao, sono Fabio 
 
-Analista di Cybersecurity, Studente di Ingegneria Informatica e Tecnico Aeronautico con oltre 10 anni di esperienza nella manutenzione di sistemi complessi ad alta affidabilità. Ho unito la mia forma mentis strutturata e l'attenzione al dettaglio industriale con il mondo della programmazione e della sicurezza informatica.
+Analista di Cybersecurity, Ingegnere informatico e Tecnico Aeronautico con oltre 10 anni di esperienza nella manutenzione di sistemi complessi ad alta affidabilità. Ho unito la mia forma mentis strutturata e l'attenzione al dettaglio industriale con il mondo della programmazione e della sicurezza informatica.
 
 ---
 
@@ -22,15 +22,19 @@ Analista di Cybersecurity, Studente di Ingegneria Informatica e Tecnico Aeronaut
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-      <br />Linux / Kali
+      <br />Linux
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=kali" width="48" height="48" alt="Kali" />
-      <br />Wireshark
+      <br />Kali
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=splunk" width="48" height="48" alt="Splunk" />
-      <br />Splunk
+      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+      <br />VS Code
+    </td>
+      <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=notion" width="48" height="48" alt="Notion" />
+      <br />Notion
     </td>
   </tr>
 </table>
@@ -42,16 +46,16 @@ Analista di Cybersecurity, Studente di Ingegneria Informatica e Tecnico Aeronaut
 * 🔍 **[Modular Vulnerability Scanner](link-tua-repo-scanner)**: Un framework CLI di ricognizione attiva che interroga in tempo reale le API del NIST NVD per la correlazione live delle CVE.
 
 ### 📜 Certificazioni & Formazione
-* 🎓 **Ingegneria Informatica** (In corso - 3° Anno)
-* 🛡️ **eJPTv2** (Junior Penetration Tester)
+* 🎓 **Ingegneria Informatica** 
+* ⚔️ **eJPTv2** (Junior Penetration Tester)
+* 🛡️ **CompTIA Security +**
 * 💼 **Cybersecurity Analyst Master Program** (Epicode)
 
 ### 📫 Come Contattarmi
-* 💼 LinkedIn: [Il tuo profilo LinkedIn](https://linkedin.com/in/tuo-profilo)
-* 🌐 Etsy: [Il tuo negozio se vuoi mostrarlo](https://etsy.com/shop/tuo-negozio)
+* 💼 LinkedIn: www.linkedin.com/in/fabiomungiovi
 
----
 
+<!--
 ### 📊 GitHub Stats
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=IL_TUO_USERNAME_QUI&show_icons=true&theme=tokyonight&include_all_commits=true" alt="Le mie statistiche GitHub" height="150" />
