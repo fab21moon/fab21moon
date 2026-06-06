@@ -1,4 +1,61 @@
-## Hi there 👋
+# Ciao, sono Fabio 👋
+
+Analista di Cybersecurity, Studente di Ingegneria Informatica e Tecnico Aeronautico con oltre 10 anni di esperienza nella manutenzione di sistemi complessi ad alta affidabilità. Ho unito la mia forma mentis strutturata e l'attenzione al dettaglio industriale con il mondo della programmazione e della sicurezza informatica.
+
+---
+
+### 🛠️ Le Mie Competenze (Tech Stack)
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+      <br />Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash" />
+      <br />Bash
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
+      <br />C++
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+      <br />Linux / Kali
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=kali" width="48" height="48" alt="Kali" />
+      <br />Wireshark
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=splunk" width="48" height="48" alt="Splunk" />
+      <br />Splunk
+    </td>
+  </tr>
+</table>
+
+### 🚀 Progetti in Evidenza
+
+* 🛡️ **[Network IDS & Traffic Detector](link-tua-repo-ids)**: Un Intrusion Detection System embrionale in Python/Scapy con logica stateful per il rilevamento di Port Scan e protocolli non sicuri, pronto per l'indicizzazione SIEM.
+* 🔏 **[Pure Hash Identifier](link-tua-repo-hash)**: Un motore a riga di comando ultrarapido basato su espressioni regolari industriali per l'identificazione di oltre 10 formati crittografici (Windows NTLM, bcrypt, MySQL, ecc.).
+* 🔍 **[Modular Vulnerability Scanner](link-tua-repo-scanner)**: Un framework CLI di ricognizione attiva che interroga in tempo reale le API del NIST NVD per la correlazione live delle CVE.
+
+### 📜 Certificazioni & Formazione
+* 🎓 **Ingegneria Informatica** (In corso - 3° Anno)
+* 🛡️ **eJPTv2** (Junior Penetration Tester)
+* 💼 **Cybersecurity Analyst Master Program** (Epicode)
+
+### 📫 Come Contattarmi
+* 💼 LinkedIn: [Il tuo profilo LinkedIn](https://linkedin.com/in/tuo-profilo)
+* 🌐 Etsy: [Il tuo negozio se vuoi mostrarlo](https://etsy.com/shop/tuo-negozio)
+
+---
+
+### 📊 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=IL_TUO_USERNAME_QUI&show_icons=true&theme=tokyonight&include_all_commits=true" alt="Le mie statistiche GitHub" height="150" />
+</p>
 
 <!--
 **fab21moon/fab21moon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
