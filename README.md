@@ -1,7 +1,5 @@
 # Ciao sono Fabio 🐻‍❄️🏴‍☠️
 
----
-
 ### 🛠️ Tech Stack
 
 <table>
