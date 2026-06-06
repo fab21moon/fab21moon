@@ -41,9 +41,9 @@ Analista di Cybersecurity, Ingegnere informatico e Tecnico Aeronautico con oltre
 
 ### 🚀 Progetti in Evidenza
 
-* 🛡️ **[Network IDS & Traffic Detector](link-tua-repo-ids)**: Un Intrusion Detection System embrionale in Python/Scapy con logica stateful per il rilevamento di Port Scan e protocolli non sicuri, pronto per l'indicizzazione SIEM.
-* 🔏 **[Pure Hash Identifier](link-tua-repo-hash)**: Un motore a riga di comando ultrarapido basato su espressioni regolari industriali per l'identificazione di oltre 10 formati crittografici (Windows NTLM, bcrypt, MySQL, ecc.).
-* 🔍 **[Modular Vulnerability Scanner](link-tua-repo-scanner)**: Un framework CLI di ricognizione attiva che interroga in tempo reale le API del NIST NVD per la correlazione live delle CVE.
+* 🛡️ **[Network IDS & Traffic Detector](https://github.com/fab21moon/Progetti/tree/main/mini-IDS)**: Un Intrusion Detection System embrionale in Python/Scapy con logica stateful per il rilevamento di Port Scan e protocolli non sicuri, pronto per l'indicizzazione SIEM.
+* 🔏 **[Pure Hash Identifier](https://github.com/fab21moon/Progetti/tree/main/hash_identifier)**: Un motore a riga di comando ultrarapido basato su espressioni regolari industriali per l'identificazione di oltre 10 formati crittografici (Windows NTLM, bcrypt, MySQL, ecc.).
+* 🔍 **[Modular Vulnerability Scanner](https://github.com/fab21moon/Progetti/tree/main/port_scanner)**: Un framework CLI di ricognizione attiva che interroga in tempo reale le API del NIST NVD per la correlazione live delle CVE.
 
 ### 📜 Certificazioni & Formazione
 * 🎓 **Ingegneria Informatica** 
