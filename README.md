@@ -1,10 +1,8 @@
-# Ciao sono Fabio 
-
-Analista di Cybersecurity, Ingegnere informatico e Tecnico Aeronautico con oltre 10 anni di esperienza nella manutenzione di sistemi complessi ad alta affidabilità. Ho unito la mia forma mentis strutturata e l'attenzione al dettaglio industriale con il mondo della programmazione e della sicurezza informatica.
+# Ciao sono Fabio 🐻‍❄️🏴‍☠️
 
 ---
 
-### 🛠️ Le Mie Competenze (Tech Stack)
+### 🛠️ Tech Stack
 
 <table>
   <tr>
