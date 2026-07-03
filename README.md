@@ -1,4 +1,4 @@
-# Hi, I'm Fabio 🐻‍❄️🏴‍☠️
+# Ciao! I'm Fabio
 
 ### 🛠️ Tech Stack
 
