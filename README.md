@@ -1,4 +1,4 @@
-# Ciao sono Fabio 🐻‍❄️🏴‍☠️
+# Hi, I'm Fabio 🐻‍❄️🏴‍☠️
 
 ### 🛠️ Tech Stack
 
@@ -35,39 +35,25 @@
   </tr>
 </table>
 
-### 🚀 Progetti in Evidenza
+### 🚀 Featured Projects
 
-* 🛡️ **[Network IDS & Traffic Detector](https://github.com/fab21moon/Progetti/tree/main/mini-IDS)**: Un Intrusion Detection System embrionale in Python/Scapy con logica stateful per il rilevamento di Port Scan e protocolli non sicuri, pronto per l'indicizzazione SIEM.
-* 🔏 **[Pure Hash Identifier](https://github.com/fab21moon/Progetti/tree/main/hash_identifier)**: Un motore a riga di comando ultrarapido basato su espressioni regolari industriali per l'identificazione di oltre 10 formati crittografici (Windows NTLM, bcrypt, MySQL, ecc.).
-* 🔍 **[Modular Vulnerability Scanner](https://github.com/fab21moon/Progetti/tree/main/port_scanner)**: Un framework CLI di ricognizione attiva che interroga in tempo reale le API del NIST NVD per la correlazione live delle CVE.
+* 🛡️ **[Network IDS & Traffic Detector](https://github.com/fab21moon/Progetti/tree/main/mini-IDS)**: An early-stage Intrusion Detection System built with Python/Scapy, featuring stateful logic for Port Scan detection and insecure protocol identification. Ready for SIEM indexing.
+* 🔏 **[Pure Hash Identifier](https://github.com/fab21moon/Progetti/tree/main/hash_identifier)**: An ultra-fast command-line engine based on industry-standard regular expressions for identifying over 10 cryptographic formats (including Windows NTLM, bcrypt, MySQL, etc.).
+* 🔍 **[Modular Vulnerability Scanner](https://github.com/fab21moon/Progetti/tree/main/port_scanner)**: A CLI framework for active reconnaissance that queries the NIST NVD API in real-time for live CVE correlation.
 
-### 📜 Certificazioni & Formazione
-* 🎓 **Ingegneria Informatica** 
+### 📜 Certifications & Education
+* 🎓 **B.S. in Computer Engineering** 
 * ⚔️ **eJPTv2** (Junior Penetration Tester)
-* 🛡️ **CompTIA Security +**
-* 💼 **Cybersecurity Analyst Master Program** (Epicode)
+* 🛡️ **CompTIA Security+**
+* 💼 **Cybersecurity Analyst Professional Master Program** (Epicode)
 
-### 📫 Come Contattarmi
+### 📫 Connect with Me
 * 💼 LinkedIn: www.linkedin.com/in/fabiomungiovi
 
 
 <!--
 ### 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=IL_TUO_USERNAME_QUI&show_icons=true&theme=tokyonight&include_all_commits=true" alt="Le mie statistiche GitHub" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fab21moon&show_icons=true&theme=tokyonight&include_all_commits=true" alt="My GitHub Stats" height="150" />
 </p>
-
-<!--
-**fab21moon/fab21moon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
